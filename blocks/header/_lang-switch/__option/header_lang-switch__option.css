@@ -6,3 +6,7 @@
   text-decoration: none;
   cursor: pointer;
 }
+
+.header_lang-switch__option:hover {
+  opacity: 0.8;
+}
