@@ -1,4 +1,16 @@
+/* Vendor */
 @import url(./vendor/normalize.css);
 @import url(./vendor/fonts.css);
 
+/* Body and root */
 @import url(./blocks/body/body.css);
+@import url(./blocks/root/root.css);
+
+/* Header */
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/_logo-container/header_logo-container.css);
+@import url(./blocks/header/_logo-container/__logo/header_logo-container__logo.css);
+@import url(./blocks/header/_lang-switch/header_lang-switch.css);
+@import url(./blocks/header/_lang-switch/__option/header_lang-switch__option.css);
+@import url(./blocks/header/_lang-switch/__option/_active/header_lang-switch__option_active.css);
+
