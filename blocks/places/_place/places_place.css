@@ -1,0 +1,10 @@
+.places_place {
+  max-width: 984px;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 40px;
+  grid-template-areas: 
+  'title website'
+  'image text';
+  grid-template-columns: 460px 1fr;
+}

@@ -1,0 +1,9 @@
+.places_place_text-block__paragraph {
+  font-size: 18px;
+  line-height: 163%; /* 29.34px */
+  margin-top: 28px;
+}
+
+.places_place_text-block__paragraph:first-of-type {
+  margin-top: 0;
+}
