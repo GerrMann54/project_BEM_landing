@@ -1,0 +1,10 @@
+.footer_menu__item {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.footer_menu__item:hover {
+  opacity: 0.8;
+}

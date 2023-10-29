@@ -1,0 +1,5 @@
+.cover {
+  position: relative;
+  max-height: 640px;
+  overflow: hidden;
+}

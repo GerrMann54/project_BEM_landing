@@ -48,3 +48,16 @@
 @import url(./blocks/places/_place/_website/places_place_website.css);
 @import url(./blocks/places/_place/_website/__link/places_place_website__link.css);
 @import url(./blocks/places/_place/_website/__url-heading/places_place_website__url-heading.css);
+
+/* Cover */
+@import url(./blocks/cover/cover.css);
+@import url(./blocks/cover/_overlay/cover_overlay.css);
+@import url(./blocks/cover/_overlay/__title/cover_overlay__title.css);
+@import url(./blocks/cover/_overlay/__subtitle/cover_overlay__subtitle.css);
+
+/* Footer */
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/_menu/footer_menu.css);
+@import url(./blocks/footer/_menu/__item/footer_menu__item.css);
+@import url(./blocks/footer/__copyright/footer__copyright.css);
+@import url(./blocks/footer/__github-link/footer__github-link.css);

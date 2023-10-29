@@ -1,0 +1,7 @@
+.footer__github-link {
+  color: #FFFFFF;
+}
+
+.footer__github-link:hover {
+  opacity: 0.8;
+}
