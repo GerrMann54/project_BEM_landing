@@ -1,0 +1,10 @@
+.photo-grid {
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 16px;
+  /* grid-template-areas: 
+  'p p p p'
+  'p p p p'
+  'p p p p'; */
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}

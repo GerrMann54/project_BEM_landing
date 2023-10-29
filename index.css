@@ -16,6 +16,7 @@
 
 /* Main */
 @import url(./blocks/main/main.css);
+@import url(./blocks/main/__img/main__img.css);
 
 /* Lead */
 @import url(./blocks/lead/lead.css);
@@ -32,3 +33,7 @@
 @import url(./blocks/intro/_list/intro_list.css);
 @import url(./blocks/intro/_list/__item/intro_list__item.css);
 @import url(./blocks/intro/_list/__item/_bold/intro_list__item_bold.css);
+
+/* Photo grid */
+@import url(./blocks/photo-grid/photo-grid.css);
+@import url(./blocks/photo-grid/__item/photo-grid__item.css);
